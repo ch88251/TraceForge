@@ -2,7 +2,8 @@
 
 TraceForge connects software requirements to objective verification evidence:
 
-** Requirement --> Gherkin Scenario --> Automated Test --> Test Run --> Result --> Evidence --> Metrics**
+![TraceForge flow](docs/flow.png)
+
 
 See [`docs/`](docs) for architecture, the domain model, API, and decision records.
 
